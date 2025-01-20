@@ -296,12 +296,12 @@ body{
     margin-left: 32px;
     margin-top: 58px;
     font-size: 32px;
-    font-weight: bold;
+    font-weight: bold; 
     color: black;
     float: left;
 }
 #back{
-    padding-top: 42px;
+    padding-top: 42px;  
     padding-left: 21px;
     height: 61px;
     width: 62px;
@@ -309,7 +309,7 @@ body{
 /*end White Theme*/
 
 #darkthemestart{
-    background-color: #212529;
+    background-color: #212529; 
     height: 120%;
     text-align: center;
 }
